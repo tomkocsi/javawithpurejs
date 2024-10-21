@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "pictures.picturefolder",
+    "type": "java.lang.String",
+    "description": "Ebbe a mappába menti a feltotltott képeket"
+  },
+  {
+    "name": "pictures.errorpicurl",
+    "type": "java.lang.String",
+    "description": "Ez az a kép ami gubanc esetén a fel nem töltött kép helyett szerepel"
+  }
+]}
