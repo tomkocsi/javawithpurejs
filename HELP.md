@@ -1,28 +1,5 @@
 # Getting Started
 
-## Git commands
-
-### most common git commands 
-git add .
-git commit -m "commit text"
-
-### transfer local repo to remote:
-* 1. create a repo on GitHub
-* 2. type:
-git remote add szakdoga https://github.com/tomkocsi/oenikszakdolg.git  
-git push -u szakdoga [branch name]
-* GitHub username and password will be asked
-***
-*** instead of password use this:
-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
-***
-
-### push commit to remote
-git push szakdoga [branch name]
-* if fails, pull first:
-git pull szakdoga [branch name]
-
-
 ## Reference Documentation
 For further reference, please consider the following sections:
 
